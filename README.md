@@ -14,3 +14,4 @@ reinforcement learning algorithms. In AI 2012: Advances in Artificial Intelligen
 
 Compile and install morl\_glue as regular rlglue installation. (follow instructions given there!)
  
+The original files maintain the license as-is. Modifications are distributed under the MIT License
